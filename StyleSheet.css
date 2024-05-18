@@ -1,0 +1,54 @@
+.Buttons button
+{
+    background-color: beige;
+    font-size: 16px; 
+    border: none;
+    padding-left: 10px;
+    border-radius: 40px;
+    margin-left: 20px;
+
+}
+
+.Buttons button:hover
+{
+
+    color: burlywood;
+    text-size-adjust: 20px;
+    text-decoration: azure;
+    size: 40px;
+    transform:scale(1.2) ;
+}
+
+#Div2 button
+{
+    font-size: 16px;
+    border: none;
+    float: right;
+    background-color: antiquewhite;
+    border-radius: 40px; 
+}
+
+#Div2 button:hover
+{
+    background-color: rgb(205, 226, 229);
+    size: 30px;
+    border: 100px;
+    transform: scale(1.2);
+}
+
+#Three button
+{
+    font-size: 16px;
+    border: none;
+    float: right;
+    background-color: antiquewhite;
+    border-radius: 40px; 
+}
+
+#Three button:hover
+{
+    background-color: rgb(205, 226, 229);
+    size: 30px;
+    border: 100px;
+    transform: scale(1.2);
+}
